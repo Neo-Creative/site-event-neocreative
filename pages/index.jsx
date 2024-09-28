@@ -39,7 +39,6 @@ export default function HomePage({ categories, categoryProducts, id }) {
         <Header homeActive="open" />
         <Featured />
         <Hero></Hero>
-        <HeroTwo />
         <Center>
           <div className="text-3xl">Categories</div>
           <div className="py-24">
